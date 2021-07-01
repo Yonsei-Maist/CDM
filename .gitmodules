@@ -1,0 +1,24 @@
+[submodule "packet/util/packet-analysis"]
+	path = packet/util/packet-analysis
+	url = https://github.com/Yonsei-Maist/packet-analysis.git
+[submodule "packet/server/atlas-docker"]
+	path = packet/server/atlas-docker
+	url = https://github.com/Yonsei-Maist/atlas-docker.git
+[submodule "packet/server/mitmproxy-feedernet-addon"]
+	path = packet/server/mitmproxy-feedernet-addon
+	url = https://github.com/Yonsei-Maist/mitmproxy-feedernet-addon.git
+[submodule "packet/client/FeederNetInspector"]
+	path = packet/client/FeederNetInspector
+	url = https://github.com/Yonsei-Maist/FeederNetInspector.git
+[submodule "packet/client/Base-ReactJs-FeederNet-Inspector"]
+	path = packet/client/Base-ReactJs-FeederNet-Inspector
+	url = https://github.com/Yonsei-Maist/Base-ReactJs-FeederNet-Inspector.git
+[submodule "mapping/server/cdm-recommender-api-server"]
+	path = mapping/server/cdm-recommender-api-server
+	url = https://github.com/Yonsei-Maist/cdm-recommender-api-server.git
+[submodule "mapping/server/cdm-ai-server"]
+	path = mapping/server/cdm-ai-server
+	url = https://github.com/Yonsei-Maist/cdm-ai-server.git
+[submodule "mapping/client/cdm-recommender-system"]
+	path = mapping/client/cdm-recommender-system
+	url = https://github.com/Yonsei-Maist/cdm-recommender-system.git
